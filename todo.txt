@@ -1,0 +1,7 @@
+TODOS
+[] Fix friend request issues
+[] Create / Edit  / Delete post
+[] Messages
+
+Design:
+[] Fix design issues
